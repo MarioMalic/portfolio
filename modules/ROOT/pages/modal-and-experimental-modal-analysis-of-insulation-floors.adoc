@@ -19,7 +19,7 @@ First, an FE model of the insulation floor was built in ADINA and used to predic
 For the experimental part, the structure was excited using a shaker, and its response was measured with accelerometers. The measured data were processed using ME’Scope to identify natural frequencies, mode shapes, and damping. Finally, the numerical and experimental results were compared, confirming that the refined simulation model accurately represented the real system.
 
 == Links and images
-link:https://www.researchgate.net/publication/372848702_Modal_and_experimental_analysis_of_floating_floors[Modal and experimental modal analysis of insulation floors] 
+link:https://www.researchgate.net/publication/372848702_Modal_and_experimental_analysis_of_floating_floors[Modal and experimental modal analysis of insulation floors publication] 
 
 image::fe-mode-shape.gif[title="Simulated mode shape of the structure in FE software"]
 image::ema-mode-shape.gif[title="Measured mode shape of the structure"]

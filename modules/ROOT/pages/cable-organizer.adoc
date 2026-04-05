@@ -12,10 +12,6 @@ It's a small tool that is assembled of 3D printed parts, springs, and magnets. I
 * be used to prepare the test setup by attaching the sensors and cables beforehand
 * be attached to ferromagnetic surfaces (with magnets)
 
-== How?
-
-Creativity, CAD modelling and 3D printing.
-    
 == Links and images
 link:https://grabcad.com/library/microdot-cable-organizer-1[GrabCAD link].
 

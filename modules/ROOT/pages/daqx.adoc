@@ -16,5 +16,7 @@ DAQx operates by interfacing MATLAB with NI hardware through the NI-DAQmx driver
 == Links and images
 link:https://mathworks.com/matlabcentral/fileexchange/128118-daqx[MATLAB File Exchange link]
 
+link:https://github.com/MarioMalic/DAQx[GitHub link]
+
 image::daq-main.png[title="DAQ configuration window"]
 image::daq-measurement.png[title="Acquired data (simulated device)"]
