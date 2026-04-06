@@ -1,8 +1,7 @@
 = Mario Malić
 :keywords: NVH, FEA, CAD, CAE, automation, mechanical engineering, freelance
 
-
-My name is Mario and I am a mechanical engineer with hands-on experience in noise and vibrations, finite element analysis, and software development. What makes my work interesting is the combination of these fields — I build tools that connect physical testing with numerical simulation, automate repetitive engineering workflows, and turn raw data into useful results.
+My name is Mario and I am a mechanical engineer with hands-on experience in noise and vibrations, finite element analysis, and software development. Currently, I work at VIBES.technology in Delft as a solution engineer, applying NVH testing and modelling methods to automotive components and delivering insights to customers. On the customer success side, I handle technical support, troubleshoot issues, and work directly with clients to make sure they get value from the software. Beyond that, I enjoy build tools that connect physical testing with numerical simulations, automate repetitive engineering workflows, and turn raw data into useful results.
 
 This site is a collection of projects that give a better picture of what I can do. Browse through them below.
 
