@@ -10,8 +10,8 @@
 1.5+| Mechanical engineer with four years of experience in the NVH domain, known for strong attention to detail and a results-driven mindset.
 |icon:envelope[] mario@mariomalic.com
 |icon:phone-square[] +31 6 437 62 142
-|icon:linkedin-square[] link:linkedin.com/in/mario-malic[LinkedIn]
-|icon:external-link-square[] link:mariomalic.com[mariomalic.com]
+|icon:linkedin-square[] link:https://linkedin.com/in/mario-malic[LinkedIn]
+|icon:external-link-square[] link:https://mariomalic.com[mariomalic.com]
 
 |===
 
