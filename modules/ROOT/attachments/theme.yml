@@ -26,6 +26,7 @@ list:
   item-spacing: 0
 
 base:
+  font-size: 10.5
   line-height: 1
 
 paragraph:
