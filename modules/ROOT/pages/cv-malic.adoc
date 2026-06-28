@@ -5,7 +5,7 @@
 
 [cols="1", frame=none, grid=none]
 |===
-|Mechanical engineer with 4 years of experience in NVH modelling and testing of automotive components through novel technologies in NVH industry. Solid FEA background validated through modal and experimental modal analysis and metal forming applications. Passionate about developing automation tools within CAD and CAE environments to deliver optimized FE solutions, streamline FE workflows, extract model information, generate CAD models, etc
+|Mechanical engineer with 4 years of experience in NVH modelling and testing of automotive components through novel technologies in NVH industry. Solid FEA background validated through modal and experimental modal analysis and metal forming applications. Passionate about developing automation tools within CAD and CAE environments to deliver optimized FE solutions, streamline FE workflows, extract model information, generate CAD models, etc.
 |===
 
 
