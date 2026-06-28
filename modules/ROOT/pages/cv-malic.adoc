@@ -5,10 +5,17 @@
 
 [cols="1", frame=none, grid=none]
 |===
-
-a| Mechanical engineer with four years of experience in the NVH domain, known for strong attention to detail and a results-driven mindset.
-
+|Mechanical engineer with 4 years of experience in NVH modelling and testing of automotive components through novel technologies in NVH industry. Solid FEA background validated through modal and experimental modal analysis and metal forming applications. Passionate about developing automation tools within CAD and CAE environments to deliver optimized FE solutions, streamline FE workflows, extract model information, generate CAD models, etc
 |===
+
+[cols="3, 2, 2, 2", frame=none, grid=none]
+|===
+|icon:envelope[] mario@mariomalic.com
+|icon:phone-square[] +31 6 437 62 142
+|icon:linkedin-square[] link:https://linkedin.com/in/mario-malic[LinkedIn]
+|icon:globe[] link:https://mariomalic.com[mariomalic.com]
+|===
+
 == Work experience
 
 [cols="3d,>1", frame=none, grid=none]
@@ -18,12 +25,12 @@ a| Mechanical engineer with four years of experience in the NVH domain, known fo
 |*Junior Project Engineer* | Aug '24 - Jul '25
 
 2+a|
-* Performed test-based modelling, measurements and post-processing of automotive components and assemblies (full vehicle, trimmed body, subframe, lower control arm, and bushings) to develop accurate component models 
+* Performed test-based modelling, measurements and post-processing of automotive components and assemblies (full vehicle, trimmed body, subframe, lower control arm, and bushing) to develop accurate component models 
 * Applied advanced VIBES methodologies (Virtual Point Technology, Dynamic Substructuring and Source Characterization) across multiple projects providing customers with actionable insights
-* Orchestrated and implemented the backend of an e-learning environment, serving content to customers, colleagues and leads to significantly reduce the effort required for in-person and online software training
-* Migrated software manuals to the e-learning using an improved documentation pipeline that enables seamless creation, maintenance and publishing
-* Provided technical support to customers by answering inquiries, troubleshooting, and delivering solutions
-* Supported the software development team through software testing, bug identification and reporting
+* Orchestrated and implemented the backend of an e-learning environment (LearnWorlds), serving content to customers, colleagues and leads, significantly reducing the effort for in-person and online software training
+* Managed support operations by resolving customer inquiries and technical issues, while collaborating with development teams on bug reports and software testing 
+* Implemented a centralized servicedesk (JIRA Service Management), focused on internal collaboration for resolving customer tickets and automating bug report escalations to development teams, improving cross-team efficiency 
+* Migrated software manuals to the private e-learning environment using an appropriate documentation framework (Asciidoc and Antora) that enables seamless creation, versioning, maintenance and publishing
 |===
 
 [cols="3,>1", frame=none, grid=none]
